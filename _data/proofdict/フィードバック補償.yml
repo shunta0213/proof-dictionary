@@ -1,0 +1,13 @@
+id: 01HW2TVEBTEGE4EQPZY6GSXK3A
+description: ''
+expected: フィードバック補償
+patterns:
+  - フィードバック保障
+  - フィードバック保証
+allows: []
+specs:
+  - from: フィードバック保障
+    to: フィードバック補償
+  - from: フィードバック保障
+    to: フィードバック補償
+tags: []
