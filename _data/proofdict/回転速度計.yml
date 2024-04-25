@@ -1,0 +1,11 @@
+id: 01HWASSRE7JCKKX0SZADWWCZM5
+description: ''
+expected: 回転速度計
+patterns:
+  - 回転速度系
+  - 回転速度型
+allows: []
+specs:
+  - from: 回転速度系
+    to: 回転速度計
+tags: []
