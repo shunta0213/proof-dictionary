@@ -1,0 +1,14 @@
+id: 01HYDB906RC6WVQBPAZASV28CE
+description: ''
+expected: 電流計
+patterns:
+  - 電流型
+  - 電流形
+  - 電流系
+allows: []
+specs:
+  - from: 電流形
+    to: 電流計
+  - from: 電流形
+    to: 電流計
+tags: []
